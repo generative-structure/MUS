@@ -1,5 +1,7 @@
 # Assumed, Not Measured: replication materials
 
+[![DOI](https://zenodo.org/badge/1381611517.svg)](https://doi.org/10.5281/zenodo.22899156)
+
 Replication materials for *Assumed, Not Measured: What Monetary-Unit Sampling Assumes About Where
 Error Lives*. This repository contains the source adjudication of the Peat Marwick Mitchell (PMM)
 audit-error tables, the practitioner allocation calculator, and the scripts that generate the
@@ -38,3 +40,7 @@ and recalculate the file (or run LibreOffice headless) before `check_calculator.
 The federal statistical-system estimates, the simulated-ledger allocation calculations, the
 literature ledger and the manuscript sources belong to other parts of the reproducibility package and
 are not in this repository.
+
+## Citation
+
+Archived on Zenodo. This version: https://doi.org/10.5281/zenodo.22899157. All versions: https://doi.org/10.5281/zenodo.22899156.
