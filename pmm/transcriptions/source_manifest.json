@@ -1,0 +1,15 @@
+{
+  "Johnson_Leitch_Neter_1981_TAR.pdf": {
+    "sha256": "c44f29f0c769c221a65d4de2b8c2af864882af6769e533379c233c021cb51986",
+    "description": "Johnson, Leitch and Neter (1981), The Accounting Review 56(2): 270-293, publisher PDF"
+  },
+  "Neter_Johnson_Leitch_1985_TAR.pdf": {
+    "sha256": "10d1f367e0e96dd12a497b72587b6b870f03b694dd53562385456353d55829ad",
+    "description": "Neter, Johnson and Leitch (1985), The Accounting Review 60(3): 488-499, publisher PDF"
+  },
+  "Ramage-EmpiricalStudyError-1979.pdf": {
+    "sha256": "800c5a3ea034dbb7f6c493474f4917a9c9bc52973e8bb6e4b7bee29754253069",
+    "description": "Ramage, Krieger and Spero (1979), Journal of Accounting Research 17 (Supplement): 72-102, JSTOR PDF"
+  },
+  "note": "The copyrighted source articles are not redistributed. The hashes identify the exact files from which the transcriptions were made."
+}

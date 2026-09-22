@@ -1,0 +1,21 @@
+account_class,audit_id,account_balance_million,mean_book_amount,overall_rate,source_file,table,printed_page,pdf_page,verification,dispersion_status
+receivables,6,8.17,241,0.12,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,11,23.91,639,0.09,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,15,4.89,856,0.16,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,16,31.11,12066,0.27,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,59,16.46,628,0.06,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,69,31.49,1661,0.14,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,77,8.01,644,0.12,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,80,33.16,616,0.09,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,81,33.16,616,0.06,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+receivables,91,0.26,52,0.86,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,13,2.49,355,0.71,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,14,3.71,639,0.55,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,22,31.45,1016,0.32,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,23,31.45,1016,0.29,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,24,14.84,1308,0.42,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,27,29.37,76,0.13,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,32,2.08,172,0.71,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,33,5.07,1282,0.65,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,56,4.91,535,0.3,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD
+inventory,60,3.19,968,0.76,Johnson_Leitch_Neter_1981_TAR.pdf,6,278,9,visually verified rendered primary; inventory27 mean76 and AR16 balance31.11 corrected from OCR,mean book amount not within-audit logSD

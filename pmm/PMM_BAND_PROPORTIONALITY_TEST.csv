@@ -1,0 +1,9 @@
+account,audit,band_comparison,occurrence_source,severity_source,P_M,P_H,X_occurrence_ratio,S_M,S_H,Y_severity_ratio,required_1_over_Y,required_P_H,observed_XY,status,reason
+receivables,all_10,middle_vs_high (JLN T7 thirds),JLN1981 T7 p279,NJL1985 T4 p494 (median positive taint; small/large halves of erroneous items),,,,,,,,,,not_computable,"no second-moment severity by band; NJL T4 partition (halves of positive-taint erroneous items) is not the JLN T7 partition (thirds of all line items); medians are not E[tau^2]; universes differ (T7 includes zero/negative-book errors, T4 positive taints only)"
+inventory,all_10,middle_vs_high (JLN T7 thirds),JLN1981 T7 p279,NJL1985 T4 p494,,,,,,,,,,not_computable,"as above"
+receivables,all_10,middle_vs_high (JLN T7 thirds),JLN1981 T7 p279,NJL1985 T5 p495 (median negative taint),,,,,,,,,,not_computable,"as above; negative taints only, six receivables audits"
+inventory,all_10,middle_vs_high (JLN T7 thirds),JLN1981 T7 p279,NJL1985 T5 p495,,,,,,,,,,not_computable,"as above"
+all,all_20,any band,JLN1981 T7 p279,JLN1981 T11/T12 p286-287 or NJL1985 T2/T3 p491-493,,,,,,,,,,not_computable,"taint histograms and moments are pooled per audit; no band split published"
+all,13 audits,low/medium/high deciles of erroneous items,JLN1981 T7 p279,JLN1981 T13 p290 (moving SD of error amounts),,,,,,,,,,not_computable,"T13 partitions erroneous items (not the population) into deciles without amount coordinates and reports error-amount SDs, not taint moments"
+receivables,11,eleven strata,RKS1979 T14 p97 (stratum error rates),none,,,,,,,,,,not_computable,"no taint or squared-taint statistic by stratum in RKS, JLN or NJL; RKS relative magnitude is scaled to audit value"
+all,all_20,any band,dollar-unit occurrence by band,any,,,,,,,,,,not_computable,"no PMM source publishes dollar-weighted occurrence by amount band; NJL T7 gives only the across-audit distribution of audit-wide dollar-unit rates"

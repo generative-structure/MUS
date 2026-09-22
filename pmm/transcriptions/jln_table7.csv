@@ -1,0 +1,21 @@
+account_class,audit_id,unweighted_errors,low_rate,middle_rate,high_rate,low_rank,middle_rank,high_rank,rate_derived_low_rank,rate_derived_middle_rank,rate_derived_high_rank,source_file,table,printed_page,pdf_page,verification
+receivables,6,47,0.108,0.095,0.284,2,1,3,2,1,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,11,173,0.07,0.084,0.157,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,15,131,0.111,0.203,0.332,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,16,71,0.166,0.374,0.527,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,59,79,0.062,0.059,0.086,2,1,3,2,1,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,69,106,0.124,0.16,0.187,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,77,39,0.105,0.155,0.107,1,3,2,1,3,2,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,80,49,0.074,0.106,0.148,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,81,45,0.074,0.0,0.106,2,1,3,2,1,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+receivables,91,70,0.771,1.0,0.934,1,3,2,1,3,2,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,13,255,0.641,0.838,0.797,1,3,2,1,3,2,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,14,221,0.389,0.949,0.96,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,22,535,0.283,0.38,0.44,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,23,1139,0.259,0.368,0.425,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,24,284,0.36,0.471,0.668,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,27,186,0.123,0.159,0.097,2,3,1,2,3,1,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,32,142,0.745,0.738,0.537,3,2,1,3,2,1,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,33,174,0.597,0.807,0.733,1,2,3,1,3,2,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,56,184,0.206,0.474,0.633,1,2,3,1,2,3,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
+inventory,60,107,0.876,0.461,0.712,3,1,2,3,1,2,Johnson_Leitch_Neter_1981_TAR.pdf,7,279,10,rendered primary scan visually verified
